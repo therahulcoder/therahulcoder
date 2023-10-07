@@ -1,5 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Chaudhary)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B+I'm+Rahul+Chaudhary)](https://git.io/typing-svg)
+
+
 - 👀 I’m software developer.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on open source projects.
